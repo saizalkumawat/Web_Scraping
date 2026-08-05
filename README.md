@@ -1,4 +1,4 @@
-# 📚 PRODIGY_SD_05 - Web Scraping using Python
+# 📚 PRODIGY_SD_02 - Web Scraping using Python
 
 ## 📌 Objective
 
@@ -52,7 +52,7 @@ PRODIGY_SD_05/
 Clone the repository
 
 ```bash
-git clone https://github.com/saizalkumawat/Web_Scraping.git
+git clone https://github.com/saizalkumawat/PRODIGY_SD_02.git
 ```
 
 Move into the project directory
